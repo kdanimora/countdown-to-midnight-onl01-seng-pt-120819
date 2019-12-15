@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown (Int)
+def 
   while int < 0 do
     puts "#{int} Second (S)!"
     int -= 1 
