@@ -1,7 +1,7 @@
 #write your code here
 
-def countdown 
-  while int < 0 do
+def countdown (int)
+  while int > 0 do
     puts "#{int} Second (S)!"
     int -= 1 
   end
