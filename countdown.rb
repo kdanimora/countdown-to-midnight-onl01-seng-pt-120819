@@ -6,5 +6,5 @@ def countdown (Int)
     int -= 1 
   end
   
-  puts "Happy New Year"
+ "Happy New Year"
 end
